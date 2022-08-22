@@ -1,0 +1,5 @@
+this is page 4 of chapter 1
+
+this was done on github.com for class practice to understand fetch and update to pull through locally
+
+right now it is on remote repo but i will pull it to my local repo to have the same file
